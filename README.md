@@ -1,8 +1,8 @@
-# 【entity-Spotify¦canonical_name=Spotify】-Clone
+# Spotify Clone
 
-A responsive 【entity-Spotify¦canonical_name=Spotify】 Clone built using HTML, CSS and JavaScript.
+A responsive Spotify Clone built using HTML, CSS and JavaScript.
 
-This project recreates the modern 【entity-Spotify¦canonical_name=Spotify】 UI with a clean and interactive music player.
+This project recreates the modern Spotify UI with a clean and interactive music player.
 
 ## Features
 - Responsive design for all devices
